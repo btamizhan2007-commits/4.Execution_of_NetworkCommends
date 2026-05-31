@@ -28,7 +28,8 @@ This commands includes
 • Other IP Commands e.g. show ip route etc.
 <BR>
 
-## Output
+## Output 
+
 ## netstat:
 <img width="1403" height="1006" alt="image" src="https://github.com/user-attachments/assets/48579faa-ca53-443b-bc55-d072659970d2" />
 ## ipconfig:
